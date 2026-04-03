@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="assets/home.png" width="900"/>
-</p>
+  <img src="assets/home.png" wid
 # 🚀 Devcation – AI-Powered Student Opportunity Recommendation Platform
 
 ## 🚀 Live Demo
