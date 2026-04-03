@@ -79,7 +79,15 @@ User Input (Skills / Interests)
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/home.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="assets/Screenshot_20260404-021536.png" width="800"/>
+</p>
 
 ---
 
