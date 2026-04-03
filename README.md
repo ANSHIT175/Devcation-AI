@@ -96,10 +96,7 @@ User Input (Skills / Interests)
 
 ## 🚀 Current Progress
 
-* ✔ Basic UI developed
-* ✔ Recommendation logic implemented
-* ✔ Opportunity filtering working
-* 🔄 Improving accuracy and features
+The project currently includes a fully functional user interface along with an implemented recommendation logic that suggests relevant opportunities based on user input. Opportunity filtering is working effectively, and continuous improvements are being made to enhance accuracy and overall performance.and features
 
 ---
 
@@ -140,10 +137,7 @@ Devcation-AI/
 
 ## 📊 Evaluation Metrics
 
-* Recommendation accuracy
-* User relevance score
-* Response time
-* User engagement
+The performance of the system can be evaluated based on recommendation accuracy, user relevance score, response time, and overall user engagement.
 
 ---
 
@@ -171,5 +165,4 @@ Contributions, suggestions, and improvements are welcome!
 ## 🌟 Final Note
 
 This project aims to simplify student growth journeys by making opportunities accessible, personalized, and efficient.
-
 If you found this useful, consider ⭐ starring the repository!
