@@ -78,7 +78,7 @@ User Input (Skills / Interests)
 ---
 
 ## 📸 Screenshots
-![Home](assets/home.png)
+![](assets/home.png)
 
 ![Results](assets/Screenshot_20260404-021536.png)
 
