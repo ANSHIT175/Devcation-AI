@@ -1,3 +1,4 @@
+![Devcation AI](assets/home.png)
 # 🚀 Devcation – AI-Powered Student Opportunity Recommendation Platform
 
 ## 🚀 Live Demo
