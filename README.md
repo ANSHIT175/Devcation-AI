@@ -149,13 +149,6 @@ The performance of the system can be evaluated based on recommendation accuracy,
 
 ---
 
-## 👨‍💻 Author
-
-**Anshit Pandey**
-Aspiring AI/ML Engineer
-
----
-
 ## ⭐ Contribution
 
 Contributions, suggestions, and improvements are welcome!
