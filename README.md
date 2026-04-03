@@ -36,6 +36,7 @@ Devcation is a centralized AI-powered platform that:
 The goal is to simplify opportunity discovery and empower students with the right resources at the right time.
 
 ![Results](assets/Screenshot_20260404-021536.png)
+
 ---
 
 ## ✨ Key Features
@@ -80,8 +81,6 @@ User Input (Skills / Interests)
 
 ## 📸 Screenshots
 ![](assets/home.png)
-
-![Results](assets/Screenshot_20260404-021536.png)
 
 ![Features](assets/Screenshot_20260404-021552.png)
 
