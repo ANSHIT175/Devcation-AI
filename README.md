@@ -11,6 +11,8 @@ In today’s fragmented ecosystem, students often struggle to find personalized 
 
 ---
 
+🚀 Live Demo: https://236e3193-98cb-4bba-a48a-a20775972fa4-00-3eu6orc7tn8xl.picard.replit.dev/#discover
+
 ## ❗ Problem Statement
 
 Despite the abundance of opportunities available online, students face major challenges:
