@@ -78,16 +78,13 @@ User Input (Skills / Interests)
 ---
 
 ## 📸 Screenshots
+![Home](assets/home.png)
 
-## 📸 Screenshots
+![Results](assets/Screenshot_20260404-021536.png)
 
-<p align="center">
-  <img src="assets/home.png" width="800"/>
-</p>
+![Features](assets/Screenshot_20260404-021552.png)
 
-<p align="center">
-  <img src="assets/Screenshot_20260404-021536.png" width="800"/>
-</p>
+![More](assets/Screenshot_20260404-021605.png)
 
 ---
 
