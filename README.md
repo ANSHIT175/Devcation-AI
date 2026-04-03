@@ -1,4 +1,5 @@
-# 🚀 Devcation – AI-Powered Student Opportunity Recommendation Platform
+# Devcation – AI-Powered Student Opportunity Recommendation Platform
+• AI-powered platform that matches students with the right opportunities in seconds.
 
 ## 🚀 Live Demo
 👉 https://236e3193-98cb-4bba-a48a-a20775972fa4-00-3eu6orc7tn8xl.picard.replit.dev/#discover
