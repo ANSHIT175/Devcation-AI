@@ -113,15 +113,26 @@ User selects: "AI, Web Development"
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
+```
 Devcation-AI/
-│── index.html
-│── style.css
-│── script.js
-│── assets/
-│── screenshots/
-│── README.md
+│
+├── index.html
+├── style.css
+├── script.js
+├── recommendation.js
+│
+├── data/
+│   └── opportunities.json
+│
+├── components/
+│
+├── assets/
+│   └── images, screenshots
+│
+└── README.md
+```
 
 ---
 
