@@ -3,7 +3,7 @@
 
 
 ## 🚀 Live Demo
-👉 https://236e3193-98cb-4bba-a48a-a20775972fa4-00-3eu6orc7tn8xl.picard.replit.dev/#discover
+👉 https://devcationai.lovable.app
 
 ## 📌 Overview
 
