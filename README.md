@@ -2,12 +2,10 @@
 • AI-powered platform that matches students with the right opportunities in seconds.
 
 Description:
-👉 AI-powered platform for smart opportunity recommendations based on user skills
-Website:
-👉 apna live link paste kar
-https://devcationai.lovable.app
-Topics (tags):
-ai
+> AI-powered platform for smart opportunity recommendations based on user skills.
+Website:https://devcationai.lovable.app
+Topics:
+> ai
 hackathon
 recommendation-system
 students
@@ -29,6 +27,7 @@ javascript
 - 🎯 Personalized recommendations  
 - ⚡ Instant results with AI Match %  
 - 🌐 All opportunities in one place
+- 💡 Helping students discover the right opportunities faster, smarter, and more efficiently.
 
 ## 📌 Overview
 
@@ -127,13 +126,7 @@ User Input (Skills / Interests)
 ---
 
 ## ## 🎥 Demo Video
-Watch the working demo here: https://drive.google.com/file/d/1pJiJDyZe9GUEY6rjvcViWuVKNqKOgLDu/view?usp=drivesdk
-
----
-
-## 🚀 Current Progress
-
-The project currently includes a fully functional user interface along with an implemented recommendation logic that suggests relevant opportunities based on user input. Opportunity filtering is working effectively, and continuous improvements are being made to enhance accuracy and overall performance.and features
+Watch here: https://drive.google.com/file/d/1pJiJDyZe9GUEY6rjvcViWuVKNqKOgLDu/view?usp=drivesdk
 
 ---
 
